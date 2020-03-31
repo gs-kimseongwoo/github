@@ -1,3 +1,4 @@
 git text:
 it is first modified in terminal:
 it is second modified in web:
+i will merge way to combine this:
